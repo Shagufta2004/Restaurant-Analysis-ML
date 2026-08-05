@@ -1,5 +1,3 @@
-# Restaurant-Revenue-Prediction
-A Machine Learning project that predicts restaurant revenue using Linear Regression by analyzing customer, operational, and environmental factors.
 # 🍽️ Restaurant Revenue Prediction using Machine Learning
 
 A Machine Learning project that predicts daily restaurant revenue using Linear Regression. The project demonstrates the complete Machine Learning pipeline, including data preprocessing, exploratory data analysis, feature engineering, model building, and evaluation.
